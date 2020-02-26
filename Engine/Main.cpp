@@ -22,7 +22,7 @@
 #include "Game.h"
 #include "ChiliException.h"
 #include <chrono>
-
+//Comments created from hdthinhpro1012 branch
 int WINAPI wWinMain( HINSTANCE hInst,HINSTANCE,LPWSTR pArgs,INT )
 {
 	try
